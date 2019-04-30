@@ -39,8 +39,8 @@ public class FileManagerService {
 
 	@Value(value = "${file.upload.maxSize}")
 	private int fileSize;
-
-	private String fileTypes[] = { "pdf", "jpeg", "jpg", "doc", "docx" };
+	@Value("${file.upload.type}")
+	private String fileTypes[];
 
 	public int uploadFiles(String destination, String userId, MultipartFile[] files) throws ApplicationException {
 		int counter=0;
