@@ -40,7 +40,7 @@ file.upload.path=/Users/pink/uploads
 2. http://localhost:8081/file-upload/api/getAllFilesMetaData
 
 ## API to search for file IDs with a search criterion (Optional) 
-3. http://localhost:8081/file-upload/api/getAllFilesMetaData?fileName=AIT
+3. http://localhost:8081/file-upload/api/getAllFilesMetaData?fileName=FINRA
 
 4. http://localhost:8081/file-upload/api/getAllFilesMetaData?fileId=fileId
 
