@@ -1,0 +1,12 @@
+com/test/dao/spec/SearchCriteria.class
+com/test/config/SwaggerConfiguration.class
+com/test/model/ApplicationResponse.class
+com/test/client/SpringBootAppApplication.class
+com/test/entity/FileMetaData.class
+com/test/exception/ApplicationException.class
+com/test/dao/repository/FileRepository.class
+com/test/controller/FileController.class
+com/test/scheduler/JobScheduler.class
+com/test/model/ApplicationResponse$Status.class
+com/test/service/FileManagerService.class
+com/test/dao/FileSpec.class
