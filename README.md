@@ -50,7 +50,8 @@ file.upload.path=/Users/pink/uploads
 
 6. http://localhost:8081/file-upload/api//downloadFile/{fileId}
 
+## Scheduler implemented to execute the task - implementation pending to search all files with in specific time and send alerts via email using theamlyf framework.
 
 
 
-http://localhost:8081/file-upload/swagger-ui.html(need more improvements to make it workable)
+http://localhost:8081/file-upload/swagger-ui.html( required more improvements to make it workable)
