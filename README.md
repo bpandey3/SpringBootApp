@@ -49,6 +49,7 @@ file.upload.path=/Users/pink/uploads
 ##  API to download content stream (Optional)
 
 6. http://localhost:8081/file-upload/api//downloadFile/{fileId}
+Need fixing to map 1-1 mapping with primary foreign key relationship and lazyloading concept.
 
 ## Scheduler implemented to execute the task - implementation pending to search all files with in specific time and send alerts via email using theamlyf framework.
 
